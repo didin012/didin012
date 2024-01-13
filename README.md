@@ -1,10 +1,8 @@
 ### Hi there 👋, my name is Aldrin
 
-I am an aspiring to be a cloud engineer currently working on upskilling myself through making projects that relates to cloud and earning certifications throughout my journey. I am currently studying using different tools from AWS to apply the concepts I learned when I was still studying on my AWS certifications exam. I am very passionate in entering in this field since I know it is an constantly evolving tech right now and this would be the feat for me. I am looking to improve myself even more by earning more certifications, build more projects, learn new tools.
+I am an aspiring to be a cloud engineer currently working on upskilling myself through making projects that relates to cloud and earning certifications throughout my journey. I am currently studying various tools from AWS to apply the concepts I learned when I was still studying on my AWS certifications exam. I am very passionate in purssuing this field since I know it is an constantly evolving tech right now and this would be the feat for me. I am looking to improve myself even more by earning more certifications, build more projects, learning new tools.
 
-I have created repositories for my projects so that everyone can see and try to build themselves. You can check it out here on my account. This would also greatly help to my understanding on using the services by documenting every step I take on the project. As an aspiring Cloud Engineer, I am happy to share my projects to those who want to enter the field of cloud enabling them to apply.
-
-
+I have created repositories for my projects so that everyone can see and try to build for themselves. You can check it out here on my account. This repositories would be beneficial to brush up my understanding on using the services by documenting every step I take on the project. As an aspiring Cloud Engineer, I am happy to share my projects to those who want to enter the field of cloud enabling them to have a hands-on experience to workarounds.
 
 Currently I have two certifications from AWS
 
