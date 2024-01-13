@@ -4,7 +4,7 @@ I am an aspiring to be a cloud engineer currently working on upskilling myself t
 
 I have created repositories for my projects so that everyone can see and try to build for themselves. You can check it out here on my account. This repositories would be beneficial to brush up my understanding on using the services by documenting every step I take on the project. As an aspiring Cloud Engineer, I am happy to share my projects to those who want to enter the field of cloud enabling them to have a hands-on experience to workarounds.
 
-Currently I have two certifications from AWS
+Currently I have two certifications issued by AWS
 
 <p align="center">
 <img src="https://github.com/didin012/didin012/assets/104528282/9d5d2839-34c8-43ed-b491-ca129832a8df)" width="250">
