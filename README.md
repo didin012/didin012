@@ -6,7 +6,7 @@ I have created repositories for my projects so that everyone can see and try to 
 
 
 
-Currently I have two certifications from AWS which are down below.
+Currently I have two certifications from AWS
 
 <p align="center">
 <img src="https://github.com/didin012/didin012/assets/104528282/9d5d2839-34c8-43ed-b491-ca129832a8df)" width="250">
