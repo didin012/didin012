@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Aldrin
+
+I am an aspiring to be a cloud engineer currently working on upskilling myself through making projects that relates to cloud and earning certifications throughout my journey. I am currently studying using different tool from AWS to apply the concepts I learned when I was studying for my AWS certifications. I am very passionate in entering in this field since I know it is an constantly evolving tech right now and it will be the challenge for me. 
+
+I have created repositories for my projects so that everyone can see and try to build themselves. This would also greatly help to my understanding on using the services by documenting every step I take on the project. As an aspiring Cloud Engineer, I am eager to share my projects to those who want to enter the field of cloud.
+
+- 🔭 I’m currently working on AWS Projects
+- 🌱 I’m currently learning DevOps Discplines including the Serverless projects
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with understanding more services and tools about Cloud
+- 📫 How to reach me: [...](https://www.linkedin.com/in/aldrin-astronomo-665976217/)
+- 😄 Pronouns: He/Him
+
 
 <!--
 **didin012/didin012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
