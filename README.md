@@ -1,8 +1,10 @@
 ### Hi there 👋, my name is Aldrin
 
-I am an aspiring to be a cloud engineer currently working on upskilling myself through making projects that relates to cloud and earning certifications throughout my journey. I am currently studying using different tool from AWS to apply the concepts I learned when I was studying for my AWS certifications. I am very passionate in entering in this field since I know it is an constantly evolving tech right now and it will be the challenge for me. 
+I am an aspiring to be a cloud engineer currently working on upskilling myself through making projects that relates to cloud and earning certifications throughout my journey. I am currently studying using different tools from AWS to apply the concepts I learned when I was still studying on my AWS certifications exam. I am very passionate in entering in this field since I know it is an constantly evolving tech right now and this would be the feat for me. I am eager in seeking to improve myself by earning more certifications and build more projects to be able to apply these skills to new applications.
 
-I have created repositories for my projects so that everyone can see and try to build themselves. This would also greatly help to my understanding on using the services by documenting every step I take on the project. As an aspiring Cloud Engineer, I am eager to share my projects to those who want to enter the field of cloud enabling them to apply .
+I have created repositories for my projects so that everyone can see and try to build themselves. This would also greatly help to my understanding on using the services by documenting every step I take on the project. As an aspiring Cloud Engineer, I am happy to share my projects to those who want to enter the field of cloud enabling them to apply.
+
+
 
 Currently I have two certifications from AWS which are down below.
 
