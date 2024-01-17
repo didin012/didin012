@@ -13,8 +13,8 @@ Currently I have two certifications issued by AWS
 
 <em>Know more about me!</em>
 
-- 🔭 I’m currently working on AWS Projects
-- 🌱 I’m currently learning DevOps Discplines including the Serverless projects
+- 🔭 I’m currently working on various AWS Projects
+- 🌱 I’m currently learning Cloud computing DevOps discplines including the Serverless projects
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with understanding more services and tools about Cloud
 - 📫 How to reach me: [...](https://www.linkedin.com/in/aldrin-astronomo-665976217/)
