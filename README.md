@@ -9,6 +9,8 @@ Some of my current badges are below:
 <p align="center">
 <img src="https://github.com/didin012/didin012/assets/104528282/9d5d2839-34c8-43ed-b491-ca129832a8df)" width="250">
 <img src="https://github.com/didin012/didin012/assets/104528282/ed0ba0da-3faa-4b07-b217-260319bdb7eb)" width="250">
+<img src="https://github.com/didin012/didin012/assets/104528282/61cec9a2-c502-4d54-81c5-c27dd9f8374b)" width="250">
+
 </p>
 
 <em>Know more about me!</em>
