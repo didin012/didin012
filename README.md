@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Aldrin
 
-I am an aspiring to enter in the field of DevOps and cloud role. I'm currently working on upskilling myself through making projects that relates to cloud and earning certifications throughout my journey. I am currently studying various tools from AWS to apply the concepts I learned when I was still studying on my AWS certifications exam. I am very passionate in pursuing this field since I know it is an constantly evolving tech right now and this would be the feat for me. I am looking to improve myself even more by earning more certifications, build more projects, learning new tools and lastly, I certainly love studying! 📚📖🧋🌅
+I am an aspiring to enter in the field of DevOps and cloud role. I'm currently working on upskilling myself through making projects that relates to cloud and earning certifications throughout my journey. I am currently studying various tools from AWS to apply the concepts I learned when I was still studying on my AWS certifications exam. I am very passionate in pursuing this field since I know it is an constantly evolving tech today and this would be the feat for me. I am looking to improve myself even more by earning more certifications, build more projects, learning new tools and lastly, I certainly love studying! 📚📖🧋🌅
 
-These project portfolio is open to everyone so that they try to build for themselves. You can check it out here on my account. This repositories would be beneficial to brush up my understanding on using the services by documenting every step I take on the project. As an aspiring to be with in this industry, I am happy to share my projects to those who want to enter on this field enabling them to have a hands-on experience to workarounds.
+These project portfolio is open to everyone so that they try to build for themselves. You can check it out here on my account. These repositories are beneficial to brush up my understanding on using the services and tools by documenting every step I take on the project. As an aspiring to be with in this industry, I am happy to share my projects to those who want to enter on this field enabling them to have a hands-on experience to workarounds.
 
-Some of my current badges are below:
+These are some of my current badges are below:
 
 <p align="center">
 <img src="https://github.com/didin012/didin012/assets/104528282/9d5d2839-34c8-43ed-b491-ca129832a8df)" width="250">
