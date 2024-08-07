@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-- My name is Aldrin
+- I'm Aldrin
 - Cloud Engineer
 - 🌱 I’m currently learning Cloud and DevOps disciplines
 
