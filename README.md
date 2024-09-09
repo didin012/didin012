@@ -1,8 +1,8 @@
 ## 👋 About Me
 
-- I'm Aldrin
-- Cloud Engineer
-- 🌱 I’m currently learning Cloud and DevOps disciplines
+- Aldrin | Cloud Engineer
+- 🚀 Passionate about Cloud & DevOps
+- 🌱 Always eager to learn and grow
 
 ## 📱 My Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldrin-astronomo-665976217/)
