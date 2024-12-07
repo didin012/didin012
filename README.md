@@ -9,10 +9,10 @@
 
 ## 🎖️ Certificates
 <p align="center">
-<img src="https://github.com/didin012/didin012/assets/104528282/ed0ba0da-3faa-4b07-b217-260319bdb7eb)" width="150">
-<img src="https://github.com/didin012/didin012/assets/104528282/9d5d2839-34c8-43ed-b491-ca129832a8df)" width="150">
-<img src="https://github.com/user-attachments/assets/30f8d5f0-ea72-42c0-9fff-ff55cdd1d2c2" width="150">
-<img src="https://github.com/user-attachments/assets/7a6f0ffb-2931-42ee-b1c3-2000479b3519" width="150">
+<img src="https://github.com/didin012/didin012/assets/104528282/ed0ba0da-3faa-4b07-b217-260319bdb7eb)" width="100">
+<img src="https://github.com/didin012/didin012/assets/104528282/9d5d2839-34c8-43ed-b491-ca129832a8df)" width="100">
+<img src="https://github.com/user-attachments/assets/30f8d5f0-ea72-42c0-9fff-ff55cdd1d2c2" width="100">
+<img src="https://github.com/user-attachments/assets/7a6f0ffb-2931-42ee-b1c3-2000479b3519" width="100">
 
 
 ## 💻 Tech Stacks / Tools
